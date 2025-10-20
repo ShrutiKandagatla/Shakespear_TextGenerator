@@ -59,9 +59,6 @@ Visit 👉 http://127.0.0.1:5000
 🖋️ Example Prompt
 
 Input: “To be or not to be”
-Output:
-
-“To be or not to be, that question stirs the stars and stirs the soul.”
 
 🧑‍💻 Future Enhancements
 
